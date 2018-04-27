@@ -1,6 +1,3 @@
-
-
-
 public class ClientPing {
 
     private static final int PING_SAYISI = 6; //gonderilecek toplam paket sayisi
