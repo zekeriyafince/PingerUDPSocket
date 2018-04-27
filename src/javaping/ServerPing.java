@@ -1,7 +1,3 @@
-
-
-
-
 public class ServerPing {
 
     private static final double KAYIP_ORAN = 0.3; //Her paket cevap gondermemek icin kayıp
